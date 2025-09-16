@@ -381,3 +381,11 @@ This research project demonstrates advanced understanding of machine learning fu
 **Performance**: Results may vary based on hardware specifications and dataset variations. Reported metrics are based on specific train-test splits.
 
 **Reproducibility**: Set random seeds for consistent results across runs. All experiments use `random_state=42` for reproducibility.
+
+## 📫 Contact & Portfolio
+
+- **LinkedIn:** [https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/](https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/)  
+- **Email:** safi.asfnd@gmail.com  
+- **Portfolio / GitHub:** [https://github.com/AsfandiyarSafi](https://github.com/AsfandiyarSafi)
+
+
